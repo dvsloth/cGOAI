@@ -51,6 +51,6 @@ In the `gol.py` you can customize the Grid Size (see above for disclaimer lol)
 
 ## License
 
-This project is licensed under the MIT License. Please see the [LICENSE](etc/LICENSE) file located in the "etc" folder for details.
+This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file located in the "etc" folder for details.
 
 
