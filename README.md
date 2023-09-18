@@ -17,7 +17,7 @@ Conway's Game of Life is a cellular automaton devised by mathematician John Conw
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HeyItsSloth/cGOAI.git
+   git clone https://github.com/dvsloth/cGOAI.git
    cd cGOAI
    ```
 2. Install the required dependencies:
